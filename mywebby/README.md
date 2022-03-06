@@ -1,3 +1,6 @@
+MyWebby is a personal website of mine where i practice and implent various React concepts and take a deeper dive into CSS. I will continue to add to the ReadME as the project expands
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
